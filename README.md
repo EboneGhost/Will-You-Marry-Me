@@ -18,7 +18,7 @@ This is a simple and heartfelt proposal website created using HTML, CSS, and Jav
 ## How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/EboneGhost/Will-You-Marry-Me-.git
+   git clone https://github.com/EboneGhost/Will-You-Marry-Me.git
    ```
 2. Navigate to the project folder:
    ```sh
