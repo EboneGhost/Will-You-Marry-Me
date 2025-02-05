@@ -22,7 +22,7 @@ This is a simple and heartfelt proposal website created using HTML, CSS, and Jav
    ```
 2. Navigate to the project folder:
    ```sh
-   cd Will-You-Marry-Me-
+   cd Will-You-Marry-Me
    ```
 3. Open the `index.html` file in any modern web browser.
 4. Click on "Yes" or "No" to interact with the proposal message.
