@@ -18,11 +18,11 @@ This is a simple and heartfelt proposal website created using HTML, CSS, and Jav
 ## How to Use
 1. Clone the repository:
    ```sh
-   [git clone https://github.com/your-username/proposal-website.git](https://github.com/EboneGhost/Will-You-Marry-Me-.git)
+   git clone https://github.com/EboneGhost/Will-You-Marry-Me-.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd proposal-website
+   cd Will-You-Marry-Me-
    ```
 3. Open the `index.html` file in any modern web browser.
 4. Click on "Yes" or "No" to interact with the proposal message.
@@ -41,4 +41,3 @@ Developed with ❤️ for a special proposal moment.
 
 ## License
 This project is open-source and free to use for personal purposes.
-
